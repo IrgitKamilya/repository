@@ -1,0 +1,18 @@
+# Directories
+**/__pycache__/
+/bot/.vscode/
+/bot/db/Backups/
+
+# Files
+/bot/config/config.py
+/bot/config/Settings.ini
+/.main.py.swp
+/*.zip
+/bot/Debug.log
+/bot/db/db.db
+/bot/db/log.txt
+<<<<<<< HEAD
+env/
+=======
+env/
+>>>>>>> b311d2efff1473b64e94bd3412ad33accbb483db
