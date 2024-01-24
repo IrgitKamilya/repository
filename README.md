@@ -2,7 +2,7 @@
 <p align="center">
   <h3 align="center">Chatbot-For-Studying</h3>
   <p align="center">
-    Удивительный чат-бот для классов/учебных групп!
+    Чат-бот для учебных групп ТТИТ
   </p>
   <p align="center">
     <a href="https://github.com/3x0d2s/Chatbot-For-Studying/issues">Сообщить об ошибках</a>
